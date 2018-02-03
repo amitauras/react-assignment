@@ -1,0 +1,24 @@
+.solution-container {
+	border: 2px solid red;
+	padding: 20px;
+}
+
+.map-container {
+	margin: 0 1rem;
+	min-height: 500px;
+}
+
+.map-container > .card, 
+.map-container .card > .card-body {
+	height: 100%;
+}
+
+.favorite-store-map {
+	width: 100px;
+	height: 100px;
+}
+
+.street-view-image {
+	height: 177px;
+	width: 320px;
+}
